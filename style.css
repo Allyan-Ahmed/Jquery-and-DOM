@@ -1,0 +1,47 @@
+body{
+    background-color: skyblue;
+    color: navy;
+}
+
+.slide-heading{
+    text-align: center;
+}
+
+.slide-btn{
+    width: 15vw;
+    height: 5vh;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: navy;
+    color: skyblue;
+    font-weight: 600;
+    margin-left: 43%;
+}
+
+.list{
+    text-align: center;
+}
+
+.list-text{
+    height: 5vh;
+    width: 15vw;
+    margin-left: 34.5%;
+}
+
+.btn{
+    width: 15vw;
+    height: 6vh;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: navy;
+    color: skyblue;
+    font-weight: 600;
+}
+
+.box{
+    border: solid 2px black;
+    width: 30vw;
+    height: 6vh;
+    margin: auto;
+    text-align: center;
+}
